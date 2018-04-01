@@ -1,0 +1,10 @@
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/bin/Debug/netcoreapp2.0/ProjectRathnaSri.deps.json
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/bin/Debug/netcoreapp2.0/ProjectRathnaSri.runtimeconfig.json
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/bin/Debug/netcoreapp2.0/ProjectRathnaSri.runtimeconfig.dev.json
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/bin/Debug/netcoreapp2.0/ProjectRathnaSri.dll
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/bin/Debug/netcoreapp2.0/ProjectRathnaSri.pdb
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/obj/Debug/netcoreapp2.0/ProjectRathnaSri.csproj.CoreCompileInputs.cache
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/obj/Debug/netcoreapp2.0/ProjectRathnaSri.AssemblyInfoInputs.cache
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/obj/Debug/netcoreapp2.0/ProjectRathnaSri.AssemblyInfo.cs
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/obj/Debug/netcoreapp2.0/ProjectRathnaSri.dll
+/home/prasad/Documents/RathnaSri/ProjectRathnaSri/obj/Debug/netcoreapp2.0/ProjectRathnaSri.pdb
